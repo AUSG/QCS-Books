@@ -2,7 +2,7 @@
 
 ## 💫 Key concepts ➡️ 각자 한 달동안 정해진 책 한 권 읽기!
 
-### 스터디 진행 방식
+## 👋 스터디 진행 방식
 
 **매 월 1권의 책을 읽으며, 가능한 소 스프린트마다 독서 일지 기록**  
 
@@ -52,7 +52,7 @@
 
 📖 2019. 09. 10 ~ \[CODE - Charles Petzold\]  
 
-## 📚 books 
+## 📚 books 📚
 
 ```
 * first sort rule - status
