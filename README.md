@@ -1,6 +1,6 @@
 # 📚 monthly-books
 
-## 💫 Key concepts ➡️ 각자 한 달동안 정해진 책 한 권 읽기!
+### 💫 Key concepts ➡️ 각자 한 달동안 정해진 책 한 권 읽기!
 
 ## 👋 스터디 진행 방식
 
