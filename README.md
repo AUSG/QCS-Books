@@ -43,11 +43,11 @@
 ⭐ 다음 달에 읽을 책을 리스트에서 선정하고 다음 발표자 선정(발표자는 사이클(모든 사람이 발표할 때까지)을 돌아야만 다시 발표 가능)   
 ⭐ 점심 혹은 저녁 식사!!!  
 
-### 📅 Schedule
+## 📅 Schedule
 
 📖 first month book: [CODE - Charles Petzold](https://en.wikipedia.org/wiki/Code:_The_Hidden_Language_of_Computer_Hardware_and_Software)  
 
-### 📚 books 
+## 📚 books 
 
 ```
 first sort rule - status
@@ -59,7 +59,7 @@ second sort rule - level
 💡 Level(💡 ~ 💡💡💡💡💡)  
 ```
 
-#### 🧠 Common Sense
+### 🧠 Common Sense
 
 📘 \[CODE - 찰스 팻졸드\] 💡
 
@@ -99,7 +99,7 @@ second sort rule - level
 
 📕 레거시 코드 활용 전략 - 마이클 패더스 💡💡💡
 
-#### 🎨 Software Architecture(Design)
+### 🎨 Software Architecture(Design)
 
 📕 리펙터링 - 파울러 마틴 💡💡
 
@@ -140,7 +140,7 @@ second sort rule - level
 📕 The Arts of Software Testing - 글렌포드 마이어스 💡💡💡💡💡
 
 
-#### 💻 Software Implimentation(Languages)
+### 💻 Software Implimentation(Languages)
 
 📕 러닝 자바스크립트 - 이선 브라운 💡
 
