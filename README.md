@@ -18,8 +18,10 @@
 
 **이슈는 대 스프린트마다 작성합니다.**  
 
-⭐ 이슈 제목: \[시작 날짜, 참가자 이름 - 책 제목\]  
-> ex) \[2019. 09. 16, 고명진 - CODE\]
+⭐ 이슈 제목: \[Book Reviews\] 시작일, 이름 - 책이름(출판년, 기타 정보)
+
+> ex) \[Book Reviews\] yyyy mm dd, {your-name} - {book-name}(published year, ...etc information)
+> ex) \[Book Reviews\] 2019. 09. 16, 고명진 - CODE(2014, 개정판)
 
 **이슈의 첫 내용은 첫 주의 내용이, 이후에는 매 스프린트마다 코멘트를 달아 공유합니다.**  
 
