@@ -1,6 +1,6 @@
 # 📚 Quick Circle Study - Books
 
-### 💫 The Key concept ➡️ 각자 한 달동안 정해진 책 한 권 읽기!
+### 💫 The Key concept ➡️ 각자 정해진 기간동안 책 한 권 읽기!
 ### > 리뷰를 잘 작성하는 것도 좋지만 우선적으로 책을 끝까지 읽는 것에 집중!
 
 ## 👋 진행 방식
